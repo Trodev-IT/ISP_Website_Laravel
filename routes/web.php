@@ -19,5 +19,7 @@ Route::get('/aboutus',[UserController::class, 'aboutus']) -> name ('aboutus');
 Route::get('/package',[UserController::class, 'package']) -> name ('packages');
 Route::get('/features',[UserController::class, 'features']) -> name ('features');
 Route::get('/blog',[UserController::class, 'blog']) -> name ('blogs');
-Route::get('/blogsdetails',[UserController::class'blogsdetails'])->name( 'blogsdetails');
+Route::get('/blogsdetails',[UserController::class,'blogsdetails'])->name( 'blogsdetails');
+Route::get('/elements',[UserController::class,'elements'])->name( 'element');
+
 

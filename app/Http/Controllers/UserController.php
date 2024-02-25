@@ -51,4 +51,9 @@ class UserController extends Controller
         return view('blogsdetails');
     }
 
+    public function elements()
+    {
+        return view('elements');
+    }
+
 }

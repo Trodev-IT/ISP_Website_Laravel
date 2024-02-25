@@ -73,15 +73,15 @@
                                     <div class="main-menu d-none d-lg-block">
                                         <nav>
                                             <ul id="navigation">
-                                                <li><a href="index.html">Home</a></li>
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="package.html">Package</a></li>
-                                                <li><a href="features.html">Features</a></li>
-                                                <li><a href="blog.html">Blog</a>
+                                                <li><a href="{{route('welcome')}}">Home</a></li>
+                                                <li><a href="{{route('aboutus')}}">About</a></li>
+                                                <li><a href="{{route('packages')}}">Package</a></li>
+                                                <li><a href="{{route('features')}}">Features</a></li>
+                                                <li><a href="{{route('blogs')}}">Blog</a>
                                                     <ul class="submenu">
-                                                        <li><a href="blog.html">Blog</a></li>
-                                                        <li><a href="blog_details.html">Blog Details</a></li>
-                                                        <li><a href="elements.html">Element</a></li>
+                                                        <li><a href="{{route('blogs')}}">Blog</a></li>
+                                                        <li><a href="{{route('blogsdetails')}}">Blog Details</a></li>
+                                                        <li><a href="{{route('element')}}">Element</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="contact.html">Contact</a></li>
