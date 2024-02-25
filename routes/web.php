@@ -21,5 +21,6 @@ Route::get('/features',[UserController::class, 'features']) -> name ('features')
 Route::get('/blog',[UserController::class, 'blog']) -> name ('blogs');
 Route::get('/blogsdetails',[UserController::class,'blogsdetails'])->name( 'blogsdetails');
 Route::get('/elements',[UserController::class,'elements'])->name( 'element');
+Route::get('/contacts',[UserController::class,'contacts'])->name('contact');
 
 

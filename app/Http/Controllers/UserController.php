@@ -56,4 +56,8 @@ class UserController extends Controller
         return view('elements');
     }
 
+    public function contacts()
+    {
+        return view('contacts');
+    }
 }
