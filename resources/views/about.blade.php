@@ -146,7 +146,7 @@
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,mod tempor incididunt ut labore et dolore magna aliqua. Utnixm, quis nostrud exercitation ullamc.</p>
                     </div>
-                    <a href="about.html" class="btn">About US</a>
+                    <a href="{{route('aboutus')}}" class="btn">About US</a>
                 </div>
             </div>
         </div>

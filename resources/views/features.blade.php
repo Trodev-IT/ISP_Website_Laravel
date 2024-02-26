@@ -139,7 +139,7 @@
                     <div class="section-tittle section-tittle2 mb-50">
                         <h2 class="mb-35">Mission is to bring all the power of every  business.</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,mod tempor incididunt ut labore et dolore magna aliqua. Utnixm, quis nostrud exercitation ullamc.</p>
-                        <a href="#" class="btn  mt-30">View Packages</a>
+                        <a href="{{route('packages')}}" class="btn  mt-30">View Packages</a>
                     </div>
                 </div>
                 <div class="col-lg-5">
