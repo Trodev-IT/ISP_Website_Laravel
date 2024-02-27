@@ -120,8 +120,8 @@
                     <div class="row">
                         <div class="col-xl-7 col-lg-6 col-md-8 col-sm-10">
                             <div class="hero__caption">
-                                <h1 data-animation="fadeInUp" data-delay=".4s">Dont't suffer the buffer, get super internet.</h1>
-                                <P data-animation="fadeInUp" data-delay=".6s" >Onsectetur adipiscing elit, sed do eiusmod tempor incididunt ufrot bore et dolore magnt, sed do eiusmod.</P>
+                                <h1 data-animation="fadeInUp" data-delay=".4s">Don't suffer the buffer, get superWeb hosting for every need.</h1>
+                                <P data-animation="fadeInUp" data-delay=".6s" >Make the most with your hosting plan, all for a price that fits your budget.</P>
                                 <!-- Hero-btn -->
                                 <div class="hero__btn">
                                     <a href="industries.html" class="btn hero-btn mb-10"  data-animation="fadeInUp" data-delay=".8s">View Packages</a>
@@ -137,7 +137,7 @@
                     <div class="row">
                         <div class="col-xl-7 col-lg-6 col-md-8 col-sm-10">
                             <div class="hero__caption">
-                                <h1 data-animation="fadeInUp" data-delay=".4s">Dont't suffer the buffer, get super internet.</h1>
+                                <h1 data-animation="fadeInUp" data-delay=".4s">Don't suffer the buffer, get super hosting for every need.</h1>
                                 <P data-animation="fadeInUp" data-delay=".6s" >Onsectetur adipiscing elit, sed do eiusmod tempor incididunt ufrot bore et dolore magnt, sed do eiusmod.</P>
                                 <!-- Hero-btn -->
                                 <div class="hero__btn">
@@ -169,7 +169,7 @@
                             <h2>We listen and work  together for Great experience.</h2>
                             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,mod tempor incididunt ut labore et dolore magna aliqua. Utnixm, quis nostrud exercitation ullamc.</p> -->
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,mod tempor incididunt ut labore et dolore magna aliqua. Utnixm, quis nostrud exercitation ullamc.</p>
+                        <p>Elevate your online presence with a hosting partner that has your back - with superb security, ultrafast speed and 24/7 friendly support.</p>
                     </div>
                     <a href="{{route('aboutus')}}" class="btn">About US</a>
                 </div>
@@ -185,7 +185,7 @@
                     <!-- Section Tittle -->
                     <div class="section-tittle section-tittle2 mb-50">
                         <h2 class="mb-35">Mission is to bring all the power of every  business.</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,mod tempor incididunt ut labore et dolore magna aliqua. Utnixm, quis nostrud exercitation ullamc.</p>
+                        <p>We provide you best quality Shared Hosting, DMCA Ignore Hosting, VPS Server</p>
                         <a href="{{route('packages')}}" class="btn  mt-30">View Packages</a>
                     </div>
                 </div>
@@ -212,7 +212,7 @@
                        <div class="col-lg-6 col-md-4 col-sm-6">
                             <div class="single-services mb-30 text-center">
                                 <i class="flaticon-null-3"></i>
-                                <p>1 Gbps Data Rate</p>
+                                <p>Standard Data Rate</p>
                             </div>
                        </div>
                    </div>
@@ -241,7 +241,7 @@
                             <h4>Only Broadband connection</h4>
                         </div>
                         <div class="card-mid">
-                            <h4>$20.00 <span>/ mo</span></h4>
+                            <h4>TK 20.00 <span>/ mo</span></h4>
                         </div>
                         <div class="card-bottom">
                             <ul>
@@ -262,7 +262,7 @@
                             <h4>Broadband & TV connection</h4>
                         </div>
                         <div class="card-mid">
-                            <h4>$25.00 <span>/ mo</span></h4>
+                            <h4>TK 25.00 <span>/ mo</span></h4>
                         </div>
                         <div class="card-bottom">
                             <ul>
@@ -283,7 +283,7 @@
                             <h4>TV, Broadband And Phone</h4>
                         </div>
                         <div class="card-mid">
-                            <h4>$29.00 <span>/ mo</span></h4>
+                            <h4>TK 29.00 <span>/ mo</span></h4>
                         </div>
                         <div class="card-bottom">
                             <ul>
@@ -339,18 +339,34 @@
                             <!-- Single Testimonial -->
                             <div class="single-testimonial">
                                 <div class="testimonial-caption">
-                                    <p>Brook presents your services with flexible, convenient and cdpose layouts. You can select your favorite layouts & elements for cular ts with unlimited ustomization possibilities. Pixel-perfect replica;ition of thei designers ijtls intended csents your se.</p>
+                                    <p>TroCloud is awesome for hosting services for a small business. I would definitely recommend them to friends or anyone looking to start an online business.</p>
                                     <div class="rattiong-caption">
-                                        <span>Jhon Smith<span>Gym Trainer</span> </span>
+                                        <span>Utsho <span>Gym Trainer</span> </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-testimonial">
+                                <div class="testimonial-caption">
+                                    <p>You’re doing great; fantastic customer service and reliable service. I’ve worked in IT for over 30 years and dealt with loads of service desks and customer reps. Your staff are top-notch, without a doubt the best I’ve ever dealt with – thanks!</p>
+                                    <div class="rattiong-caption">
+                                        <span>Zayabor Naim <span>CEO, Trodev CEO</span> </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-testimonial">
+                                <div class="testimonial-caption">
+                                    <p>A fast response time. They knew exactly what the issue was, and installed what needed to be done without me needing to do anything.</p>
+                                    <div class="rattiong-caption">
+                                        <span>Sourov<span>Gym Trainer</span> </span>
                                     </div>
                                 </div>
                             </div>
                             <!-- Single Testimonial -->
                             <div class="single-testimonial">
                                 <div class="testimonial-caption">
-                                    <p>Brook presents your services with flexible, convenient and cdpose layouts. You can select your favorite layouts & elements for cular ts with unlimited ustomization possibilities. Pixel-perfect replica;ition of thei designers ijtls intended csents your se.</p>
+                                    <p>TroCloud offers outstanding customer service, technical support, and billing services. It’s a top-notch value for the money. The customer service representative was exceptionally helpful and understanding. They patiently guided me through troubleshooting and successfully resolved my issue. It is a great and friendly company.</p>
                                     <div class="rattiong-caption">
-                                        <span>Jhon Smith<span>Gym Trainer</span> </span>
+                                        <span>Ifty <span>Gym Trainer</span> </span>
                                     </div>
                                 </div>
                             </div>
