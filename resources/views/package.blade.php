@@ -133,7 +133,7 @@
                                 <h4>Only Broadband connection</h4>
                             </div>
                             <div class="card-mid">
-                                <h4>$20.00 <span>/ mo</span></h4>
+                                <h4>TK 20.00 <span>/ mo</span></h4>
                             </div>
                             <div class="card-bottom">
                                 <ul>
@@ -154,7 +154,7 @@
                                 <h4>Broadband & TV connection</h4>
                             </div>
                             <div class="card-mid">
-                                <h4>$25.00 <span>/ mo</span></h4>
+                                <h4>TK 25.00 <span>/ mo</span></h4>
                             </div>
                             <div class="card-bottom">
                                 <ul>
@@ -175,7 +175,7 @@
                                 <h4>TV, Broadband And Phone</h4>
                             </div>
                             <div class="card-mid">
-                                <h4>$29.00 <span>/ mo</span></h4>
+                                <h4>TK 29.00 <span>/ mo</span></h4>
                             </div>
                             <div class="card-bottom">
                                 <ul>
@@ -324,7 +324,7 @@
                         <div class="col-xl-9 col-lg-8">
                             <div class="footer-copy-right">
                                 <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://Trodev.com" target="_blank">Trodev</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                             </div>
                         </div>

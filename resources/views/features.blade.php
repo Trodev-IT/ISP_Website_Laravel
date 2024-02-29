@@ -212,7 +212,7 @@
                             <!-- Single Testimonial -->
                             <div class="single-testimonial">
                                 <div class="testimonial-caption">
-                                    <p>Brook presents your services with flexible, convenient and cdpose layouts. You can select your favorite layouts & elements for cular ts with unlimited ustomization possibilities. Pixel-perfect replica;ition of thei designers ijtls intended csents your se.</p>
+                                    <p>"Our mission is to harness the full potential of every business, unlocking their power for exponential growth and impact. Through strategic partnerships and innovative solutions, we empower enterprises to thrive and lead in their industries. Together, we unleash a force of unparalleled strength, driving success and transformation."</p>
                                     <div class="rattiong-caption">
                                         <span>Jhon Smith<span>Gym Trainer</span> </span>
                                     </div>
@@ -349,7 +349,7 @@
                         <div class="col-xl-9 col-lg-8">
                             <div class="footer-copy-right">
                                 <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://trodev.com" target="_blank">Trodev</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                             </div>
                         </div>
