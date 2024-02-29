@@ -77,13 +77,13 @@
                                                 <li><a href="{{route('aboutus')}}">About</a></li>
                                                 <li><a href="{{route('packages')}}">Package</a></li>
                                                 <li><a href="{{route('features')}}">Features</a></li>
-                                                <li><a href="{{route('blogs')}}">Blog</a>
+                                                {{-- <li><a href="{{route('blogs')}}">Blog</a>
                                                     <ul class="submenu">
                                                         <li><a href="{{route('blogs')}}">Blog</a></li>
                                                         <li><a href="{{route('blogsdetails')}}">Blog Details</a></li>
                                                         <li><a href="{{route('element')}}">Element</a></li>
                                                     </ul>
-                                                </li>
+                                                </li> --}}
                                                 <li><a href="{{route('contact')}}">Contact</a></li>
                                             </ul>
                                         </nav>
