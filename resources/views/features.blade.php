@@ -165,7 +165,7 @@
                        <div class="col-lg-6 col-md-4 col-sm-6">
                             <div class="single-services mb-30 text-center">
                                 <i class="flaticon-null-3"></i>
-                                <p>1 Gbps Data Rate</p>
+                                <p>Standard Data Rate</p>
                             </div>
                        </div>
                    </div>
