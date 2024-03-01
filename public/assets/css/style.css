@@ -35,24 +35,28 @@
 
 /* line 36, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_color.scss */
 .gray-bg {
-  background: #f5f5f5;
+  background: #072A6C;
 }
 
 /*-------------Color include--------------*/
 /*-- Background color---*/
 /* line 60, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_color.scss */
 .gray-bg {
-  background: #f7f7fd;
+  background:#072A6C;
 }
 
 /* line 63, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_color.scss */
 .white-bg {
+<<<<<<< HEAD
   background: #072A6C;
+=======
+  background:#072A6C;
+>>>>>>> 9715f7afefb3d7eb22c3b740c4f0e2d7876bca12
 }
 
 /* line 66, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_color.scss */
 .black-bg {
-  background: #16161a;
+  background: #072A6C;
 }
 
 /* line 69, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_color.scss */
