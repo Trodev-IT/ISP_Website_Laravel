@@ -6,8 +6,8 @@
 	  Support:
 	  Description:
 	  Version:
-	  
-------------------------------------------------- 
+
+-------------------------------------------------
 */
 /* CSS Index
 -------------------------------------------------
@@ -30,29 +30,29 @@
 @import url("https://fonts.googleapis.com/css2?family=Muli:wght@300;400;500;600;700;800;900&display=swap");
 /* line 33, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_color.scss */
 .white-bg {
-  background: #ffffff;
+  background: #072A6C;
 }
 
 /* line 36, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_color.scss */
 .gray-bg {
-  background: #f5f5f5;
+  background: #072A6C;
 }
 
 /*-------------Color include--------------*/
 /*-- Background color---*/
 /* line 60, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_color.scss */
 .gray-bg {
-  background: #f7f7fd;
+  background:#072A6C;
 }
 
 /* line 63, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_color.scss */
 .white-bg {
-  background: #ffffff;
+  background:#072A6C;
 }
 
 /* line 66, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_color.scss */
 .black-bg {
-  background: #16161a;
+  background: #072A6C;
 }
 
 /* line 69, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_color.scss */
