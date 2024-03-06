@@ -24,6 +24,13 @@
 	<link rel="stylesheet" href="{{asset('assets/css/slick.css')}}">
 	<link rel="stylesheet" href="{{asset('assets/css/nice-select.css')}}">
 	<link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
+    <style>.row { /* Align buttons horizontally */
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+    </style>
 </head>
 <body>
     <!-- ? Preloader Start -->
@@ -237,63 +244,81 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-10">
                     <div class="single-card text-center mb-30">
                         <div class="card-top">
-                            <p>Single Package</p>
-                            <h4>Only Broadband connection</h4>
+                            <p>Basic Package</p>
+                            <h4>RH 5GB Shared Hosting</h4>
                         </div>
                         <div class="card-mid">
-                            <h4>TK 20.00 <span>/ mo</span></h4>
+                            <h4>TK 850.00 <span>/ yr</span></h4>
                         </div>
                         <div class="card-bottom">
                             <ul>
-                                <li>Line Rental Included</li>
-                                <li>12 Month Contract</li>
-                                <li>No Activation Charges</li>
-                                <li>Up to 12Mbps average Speed</li>
-                                <li>Enjoy family on weekends</li>
+                                <li>Host 3 Domain</li>
+                                <li>5GB NVMe Storage</li>
+                                <li>Unlimited Bandwidth</li>
+                                <li>Unlimited Sub Domain</li>
+                                <li>Unlimited Email Accounts</li>
+                                <li>Unlimited Databases</li>
+                                <li>Ruby, Python, NodeJS</li>
+                                <li>Free SSL certificate</li>
+                                <li>LiteSpeed Web Server</li>
+                                <li>cPanel Control Panel</li>
                             </ul>
-                            <a href="#" class="borders-btn">View Packages</a>
+                            <a href="#" class="borders-btn">Buy Packages</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-10">
                     <div class="single-card text-center mb-30">
                         <div class="card-top">
-                            <p>Half Package</p>
-                            <h4>Broadband & TV connection</h4>
+                            <p>Standered Package</p>
+                            <h4>RH 5 GB Shared Hosting</h4>
                         </div>
                         <div class="card-mid">
-                            <h4>TK 25.00 <span>/ mo</span></h4>
+                            <h4>TK 1400.00 <span>/ yr</span></h4>
                         </div>
                         <div class="card-bottom">
                             <ul>
-                                <li>Line Rental Included</li>
-                                <li>12 Month Contract</li>
-                                <li>No Activation Charges</li>
-                                <li>Up to 12Mbps average Speed</li>
-                                <li>Enjoy family on weekends</li>
+                                <li>Host 3 Domain</li>
+                                <li>5GB NVMe Storage</li>
+                                <li>Unlimited Bandwidth</li>
+                                <li>Unlimited Sub Domain</li>
+                                <li>Unlimited Email Accounts</li>
+                                <li>Unlimited Account Protection</li>
+                                <li>Unlimited Databases</li>
+                                <li>Ruby, Python, NodeJS</li>
+                                <li>Free SSL certificate</li>
+                                <li>LiteSpeed Web Server</li>
+                                <li>cPanel Control Panel</li>
                             </ul>
-                            <a href="#" class="borders-btn">View Packages</a>
+                            <a href="#" class="borders-btn">Buy Packages</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-10">
                     <div class="single-card text-center mb-30">
                         <div class="card-top">
-                            <p>Full  Package</p>
-                            <h4>TV, Broadband And Phone</h4>
+                            <p>Premium Package</p>
+                            <h4>RH 10 GB Shared Hosting</h4>
                         </div>
                         <div class="card-mid">
-                            <h4>TK 29.00 <span>/ mo</span></h4>
+                            <h4>TK 1600.00 <span>/ yr</span></h4>
                         </div>
                         <div class="card-bottom">
                             <ul>
-                                <li>Line Rental Included</li>
-                                <li>12 Month Contract</li>
-                                <li>No Activation Charges</li>
-                                <li>Up to 12Mbps average Speed</li>
-                                <li>Enjoy family on weekends</li>
+                                <li>Host 5 Domain</li>
+                                <li>10GB NVMe Storage</li>
+                                <li>Unlimited Bandwidth</li>
+                                <li>Unlimited Sub Domain</li>
+                                <li>Unlimited Email Accounts</li>
+                                <li>Unlimited Account Protection</li>
+                                <li>Unlimited Database Setup</li>
+                                <li>Unlimited Databases</li>
+                                <li>Ruby, Python, NodeJS</li>
+                                <li>Free SSL certificate</li>
+                                <li>LiteSpeed Web Server</li>
+                                <li>cPanel Control Panel</li>
                             </ul>
-                            <a href="#" class="borders-btn">View Packages</a>
+                            <a href="#" class="borders-btn">Buy Packages</a>
                         </div>
                     </div>
                 </div>
